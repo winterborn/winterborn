@@ -1,6 +1,8 @@
-Hi, I'm Phil White
+Hi, I'm Phil,
 
 Web Development Bootcamp Student @ Bath Spa University.
+
+Software Engineer Apprentice @ Makers.
 
 
 <!--
