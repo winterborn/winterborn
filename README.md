@@ -4,6 +4,8 @@ Web Development Bootcamp Student @ Bath Spa University.
 
 Software Engineer Apprentice @ Makers.
 
+[CodeWars](https://www.codewars.com/users/winterborn)
+
 
 <!--
 **winterborn/winterborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
