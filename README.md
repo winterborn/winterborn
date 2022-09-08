@@ -1,8 +1,7 @@
 Hi, I'm Phil,
 
-Web Development Bootcamp Student @ Bath Spa University.
-
-Software Engineer Apprentice @ Makers.
+* Web Development Bootcamp Student @ Bath Spa University.
+* Software Engineer Apprentice @ Makers.
 
 [CodeWars](https://www.codewars.com/users/winterborn)
 
