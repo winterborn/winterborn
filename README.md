@@ -1,7 +1,6 @@
 Hi, I'm Phil,
 
-* Web Development Bootcamp Student @ Bath Spa University.
-* Software Engineer Apprentice @ Makers.
+* Full Stack Developer
 
 [CodeWars](https://www.codewars.com/users/winterborn)
 
