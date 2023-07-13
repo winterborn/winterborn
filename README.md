@@ -1,5 +1,3 @@
-Hi, I'm Phil,
-
 * Full Stack Developer
 
 [CodeWars](https://www.codewars.com/users/winterborn)
