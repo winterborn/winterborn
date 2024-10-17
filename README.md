@@ -1,8 +1,5 @@
 * Full Stack Developer
 
-[CodeWars](https://www.codewars.com/users/winterborn)
-
-
 <!--
 **winterborn/winterborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
